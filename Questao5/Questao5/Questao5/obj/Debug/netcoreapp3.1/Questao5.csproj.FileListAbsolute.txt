@@ -1,0 +1,13 @@
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\bin\Debug\netcoreapp3.1\Questao5.exe
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\bin\Debug\netcoreapp3.1\Questao5.deps.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\bin\Debug\netcoreapp3.1\Questao5.runtimeconfig.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\bin\Debug\netcoreapp3.1\Questao5.runtimeconfig.dev.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\bin\Debug\netcoreapp3.1\Questao5.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\bin\Debug\netcoreapp3.1\Questao5.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.csprojAssemblyReference.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.AssemblyInfoInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.AssemblyInfo.cs
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.csproj.CoreCompileInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao5\Questao5\Questao5\obj\Debug\netcoreapp3.1\Questao5.genruntimeconfig.cache
