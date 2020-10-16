@@ -1,0 +1,12 @@
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\obj\Debug\netcoreapp3.1\Questao9.AssemblyInfoInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\obj\Debug\netcoreapp3.1\Questao9.AssemblyInfo.cs
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\obj\Debug\netcoreapp3.1\Questao9.csproj.CoreCompileInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\bin\Debug\netcoreapp3.1\Questao9.exe
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\bin\Debug\netcoreapp3.1\Questao9.deps.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\bin\Debug\netcoreapp3.1\Questao9.runtimeconfig.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\bin\Debug\netcoreapp3.1\Questao9.runtimeconfig.dev.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\bin\Debug\netcoreapp3.1\Questao9.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\bin\Debug\netcoreapp3.1\Questao9.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\obj\Debug\netcoreapp3.1\Questao9.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\obj\Debug\netcoreapp3.1\Questao9.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao9\Questao9\Questao9\obj\Debug\netcoreapp3.1\Questao9.genruntimeconfig.cache
