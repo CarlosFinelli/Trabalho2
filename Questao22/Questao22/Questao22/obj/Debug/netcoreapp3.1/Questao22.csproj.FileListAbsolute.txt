@@ -1,0 +1,13 @@
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\bin\Debug\netcoreapp3.1\Questao22.exe
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\bin\Debug\netcoreapp3.1\Questao22.deps.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\bin\Debug\netcoreapp3.1\Questao22.runtimeconfig.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\bin\Debug\netcoreapp3.1\Questao22.runtimeconfig.dev.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\bin\Debug\netcoreapp3.1\Questao22.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\bin\Debug\netcoreapp3.1\Questao22.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.csprojAssemblyReference.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.AssemblyInfoInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.AssemblyInfo.cs
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.csproj.CoreCompileInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao22\Questao22\Questao22\obj\Debug\netcoreapp3.1\Questao22.genruntimeconfig.cache
