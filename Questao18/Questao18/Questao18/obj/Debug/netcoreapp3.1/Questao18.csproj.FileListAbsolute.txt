@@ -1,0 +1,12 @@
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\bin\Debug\netcoreapp3.1\Questao18.exe
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\bin\Debug\netcoreapp3.1\Questao18.deps.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\bin\Debug\netcoreapp3.1\Questao18.runtimeconfig.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\bin\Debug\netcoreapp3.1\Questao18.runtimeconfig.dev.json
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\bin\Debug\netcoreapp3.1\Questao18.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\bin\Debug\netcoreapp3.1\Questao18.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\obj\Debug\netcoreapp3.1\Questao18.AssemblyInfoInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\obj\Debug\netcoreapp3.1\Questao18.AssemblyInfo.cs
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\obj\Debug\netcoreapp3.1\Questao18.csproj.CoreCompileInputs.cache
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\obj\Debug\netcoreapp3.1\Questao18.dll
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\obj\Debug\netcoreapp3.1\Questao18.pdb
+C:\Users\Olimpiadas\Desktop\Trabalho2-Carlos-Guilherme-Miranda-Finelli\Questao18\Questao18\Questao18\obj\Debug\netcoreapp3.1\Questao18.genruntimeconfig.cache
